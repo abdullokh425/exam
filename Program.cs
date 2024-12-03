@@ -79,7 +79,6 @@ class Program
     //     var result = text.Substring(0, 3);
     //     Console.WriteLine(result);
     // }
-
     
     
     
